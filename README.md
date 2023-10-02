@@ -26,7 +26,9 @@
 
 **Para Executar este projeto, clone o repositório, crie seu ambiente virtual e execute o comando no terminal**
 <br>
-<code>pip install -r .\requirements.txt</code>
+```
+pip install -r .\requirements.txt
+```
 
 <br><br>
 
