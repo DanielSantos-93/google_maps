@@ -27,7 +27,7 @@
 **Para Executar este projeto, clone o repositório, crie seu ambiente virtual e execute o comando no terminal**
 <br>
 ```
-pip install -r .\requirements.txt
+pip install -r .\google_maps\requirements.txt
 ```
 
 <br><br>
