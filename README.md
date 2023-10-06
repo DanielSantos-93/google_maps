@@ -8,10 +8,10 @@
 📌 Índice
 =================
 <!--ts-->
-   * [Sobre](#📄-sobre)
-   * [Instalação](#⚙-instalação)
-   * [Tecnologias Utilizadas](#🔨-tecnologias-utilizadas)
-   * [Autor](#👤-autor)
+   * [Sobre](#-sobre)
+   * [Instalação](#-instalação)
+   * [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+   * [Autor](#-autor)
 <!--te-->
 
 <br><br>
