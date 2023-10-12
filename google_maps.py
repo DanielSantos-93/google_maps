@@ -153,3 +153,4 @@ class Maps:
                 for key, value in loja.items():
                     print(f'{key}: {value}', end='    ')
                 print()
+        self.driver.quit()
