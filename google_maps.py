@@ -154,3 +154,7 @@ class Maps:
                     print(f'{key}: {value}', end='    ')
                 print()
         self.driver.quit()
+
+
+if __name__ == '__main__':
+    print('executando pelo arquivo google_maps.py')
